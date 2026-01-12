@@ -4,8 +4,10 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aatishofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aatishofficial/" height="30" width="40" /></a>
-<a href="https://instagram.com/aatish_offic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aatish_offic" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aatishofficial/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn" height="30" width="40" style="margin-right:12px;"/>
+  </a><a href="https://instagram.com/aatish_offic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aatish_offic" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/aatishoffic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/aatishoffic" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/aatish-org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aatish-org/" height="30" width="40" /></a>
 </p>
