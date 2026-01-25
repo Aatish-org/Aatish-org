@@ -1,3 +1,5 @@
+![Header](./github-header-banner.png)
+
 # 💫 About Me:
 🔭 I’m currently working on<br>Full-stack web applications using React, Spring Boot, and MySQL, focusing on clean APIs and scalable backend logic.<br><br>👯 I’m looking to collaborate on<br>Web apps, open-source projects, and hackathon builds involving frontend, backend, or full-stack development.<br><br>🤝 I’m looking for help with<br>System design basics, optimizing backend performance, and writing cleaner, more maintainable code.<br><br>🌱 I’m currently learning<br>Advanced React patterns, REST API design, and backend best practices with Spring Boot.<br><br>💬 Ask me about<br>Java, Python, React, databases, or building full-stack projects from scratch.<br><br>⚡ Fun fact<br>I enjoy debugging backend issues almost as much as building new features 😄⚙️
 
