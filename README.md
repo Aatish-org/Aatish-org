@@ -1,8 +1,23 @@
 ![Header](./github-header-banner.png)
 
- #### 📫 How to reach me:
+<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
+<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only">
+
+### Hey!
+
+👾 I’m Aatish.
+
+🦀 A cybersecurity enthusiast and web developer.
+
+🐁 I build secure full-stack projects and AI-powered tools.
   
   [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.com/users/santa_02)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aatishofficial/)  &nbsp;  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aatish_offic/)  &nbsp; <a href="mailto:aatishoffic@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 #### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack:
 
