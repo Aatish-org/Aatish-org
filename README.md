@@ -4,26 +4,34 @@
 🔭 I’m currently working on<br>Full-stack web applications using React, Spring Boot, and MySQL, focusing on clean APIs and scalable backend logic.<br><br>👯 I’m looking to collaborate on<br>Web apps, open-source projects, and hackathon builds involving frontend, backend, or full-stack development.<br><br>🤝 I’m looking for help with<br>System design basics, optimizing backend performance, and writing cleaner, more maintainable code.<br><br>🌱 I’m currently learning<br>Advanced React patterns, REST API design, and backend best practices with Spring Boot.<br><br>💬 Ask me about<br>Java, Python, React, databases, or building full-stack projects from scratch.<br><br>⚡ Fun fact<br>I enjoy debugging backend issues almost as much as building new features 😄⚙️
 
 
-## 🌐 Socials:
+#### 📫 How to reach me:
 
-<p align="left" style="display:flex; align-items:center; gap:14px;">
-
+<p align="left">
   <a href="https://www.linkedin.com/in/aatishofficial/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         height="32" width="32" style="vertical-align:middle;"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" />
   </a>
+  &nbsp;&nbsp;
 
   <a href="https://www.instagram.com/aatish_offic/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-         height="32" width="32" style="vertical-align:middle;"/>
+    <img src="https://img.icons8.com/fluent/48/instagram-new.png" width="40" />
   </a>
+  &nbsp;&nbsp;
 
   <a href="https://github.com/Aatish-org" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-         height="32" width="32" style="vertical-align:middle;"/>
+    <img src="https://img.icons8.com/material-outlined/48/github.png" width="40" />
   </a>
+  &nbsp;&nbsp;
 
+  <a href="mailto:aatishoffic@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/gmail.png" width="40" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://discord.com/users/santa_02" target="_blank">
+    <img src="https://img.icons8.com/color/48/discord-logo.png" width="40" />
+  </a>
 </p>
+
 
 
 ## 💻 Tech Stack:
