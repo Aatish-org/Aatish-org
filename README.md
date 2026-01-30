@@ -11,7 +11,14 @@
 
 🐁 I build secure full-stack projects and AI-powered tools.
   
-  [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.com/users/santa_02)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aatishofficial/)  &nbsp;  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aatish_offic/)  &nbsp; <a href="mailto:aatishoffic@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.com/users/santa_02) &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aatishofficial/) &nbsp;
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aatish_offic/) &nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="3.5%"/>](https://leetcode.com/aatish-org/) &nbsp;
+<a href="mailto:aatishoffic@gmail.com">
+  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+</a>
+
 
 <br>
 <br>
